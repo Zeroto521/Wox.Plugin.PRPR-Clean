@@ -17,7 +17,7 @@ Now **2018-10-31**, it already had around **4.5GB** files only **two and a half 
 
 ### After
 
-**Clean**, now.
+**Cleaning**, now.
 
 > ![screenshots](/Images/zero_20181031_223337.png)
 
