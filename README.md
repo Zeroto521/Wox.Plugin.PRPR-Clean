@@ -2,7 +2,7 @@
 
 Auto clean PRPR cache pictures.
 
-This script depends on **data** to clean PRPR cache, it will clean up  all the cache **one week ago**.
+This script depends on **data** to clean PRPR cache, it will clean up all the cache **one week ago**.
 
 ![screenshots](/Images/zero_20181031_223501.png)
 
@@ -39,11 +39,11 @@ Two parameters can config.
 1. Install `Wox.Plugin.PRPR-Clean`.
 1. Open the **Plugin** folder.
 1. Open the **clean.py** file.
-1. Find the **paramters** and change it.
+1. Find the **parameters** and change it.
 
 ## Attention
 
-This script will **DELETE** all caches which match the config .
+This script will **DELETE** all caches which match the config.
 
 ## Requirements
 
