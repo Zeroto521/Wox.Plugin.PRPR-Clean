@@ -52,3 +52,10 @@ This script will **DELETE** all caches which match the config.
 ## Reference
 
 When dealing with **byte's unit**, using this [code](https://www.cnblogs.com/misspy/p/3661770.html).
+
+## Other
+
+You must open `Wox` and key in `cls` every time, troublesome.
+
+An auto-cleaning function may be the PRPR's function, not others.
+So, this script is **temporary**.
