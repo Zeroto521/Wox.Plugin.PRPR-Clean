@@ -1,0 +1,12 @@
+{
+    "ID": "d4f2174747f4477dbaaff2ca123cce10",
+    "ActionKeyword": "cls",
+    "Name": "PRPR Clean",
+    "Description": "Auto clean PRPR cache pictures.",
+    "Author": "Zeroto521",
+    "Version": "0.0.1",
+    "Language": "python",
+    "Website": "https://github.com/Zeroto521/Wox.Plugin.PRPR-Clean",
+    "IcoPath": "Images\\favicon.png",
+    "ExecuteFileName": "clean.py"
+}
