@@ -59,3 +59,11 @@ You must open `Wox` and key in `cls` every time, troublesome.
 
 An auto-cleaning function may be the PRPR's function, not others.
 So, this script is **temporary**.
+
+---
+
+Today(**2018-11-01**) PRPR update and add **auto-cleaning** function.
+
+![update](Images/zero_20181101_110925.png)
+
+So, this script is time to **end**.
