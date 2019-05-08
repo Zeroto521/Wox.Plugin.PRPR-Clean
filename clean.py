@@ -1,11 +1,17 @@
+# -*- coding: utf-8 -*-
+
 import copy
 import os
 import shutil
 import time
+from getpass import getuser
 
 from wox import Wox, WoxAPI
 
-PATH = r'C:\Users\Zero\AppData\Local\Packages\55370laplamgor.PRPR_z94bv1n74kjxt\LocalState'
+USERNAME = getuser()
+
+PATH = r'C:\Users\{}\AppData\Local\Packages\55370laplamgor.PRPR_z94bv1n74kjxt\LocalState'.format(
+    USERNAME)
 
 LIMIT_DAYS = 7
 LIMIT_TIME = LIMIT_DAYS * 24 * 60 * 60
